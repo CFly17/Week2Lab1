@@ -1,0 +1,14 @@
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\bin\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.exe
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\bin\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.deps.json
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\bin\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.runtimeconfig.json
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\bin\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.runtimeconfig.dev.json
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\bin\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.dll
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\bin\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.pdb
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\obj\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.csproj.AssemblyReference.cache
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\obj\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\obj\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.AssemblyInfoInputs.cache
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\obj\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.AssemblyInfo.cs
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\obj\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\obj\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.dll
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\obj\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.pdb
+C:\Users\CFlynn3\source\repos\Week1_StudentDatabaseLab\Week1_StudentDatabaseLab\obj\Debug\netcoreapp3.1\Week1_StudentDatabaseLab.genruntimeconfig.cache
